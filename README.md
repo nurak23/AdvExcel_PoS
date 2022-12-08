@@ -1,6 +1,6 @@
-# POS_Using_Excel
+# AdvExcel_PoS
 
-### POS(Point-Of-Sale) System for a Retail shop using Excel with Macros
+### PoS(Point-Of-Sale) System for a Retail shop using Excel with Macros
 
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/55757415/115178920-db314800-a0ef-11eb-87bf-b0c77dbbc6e2.gif)
